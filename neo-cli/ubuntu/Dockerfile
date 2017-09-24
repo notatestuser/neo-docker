@@ -1,6 +1,6 @@
 # neo-cli-ubuntu
 
-FROM ubuntu:16.04
+FROM ubuntu:zesty
 MAINTAINER Jonatan <jonatan.blockchain@gmail.com>
 
 ENV DOTNET_SDK_VERSION 2.0.0
